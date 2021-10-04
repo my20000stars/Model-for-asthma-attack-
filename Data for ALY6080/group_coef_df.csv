@@ -1,0 +1,8 @@
+,Feature,Estimate Coefficient
+0,Daily Mean PM10 Concentration,0.24200619253117642
+1,Daily Mean PM2.5 Concentration,-0.29345382077591536
+2,Daily Max 1-hour NO2 Concentration,0.3761326570214766
+3,Daily Max 1-hour SO2 Concentration,0.13888109217797684
+4,Daily Max 8-hour CO Concentration,0.01872720737872212
+5,Daily Max 8-hour Ozone Concentration,-0.1272791745762783
+6,Daily Mean Pb Concentration,0.05042804654042643
